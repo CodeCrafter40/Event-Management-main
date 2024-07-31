@@ -81,6 +81,3 @@ A comprehensive platform designed to streamline the planning, organizing, and ma
   - Strong authentication measures ensured data and transaction security.
 
 My contributions helped create a reliable, efficient, and user-friendly platform, significantly improving the event management process for both organizers and participants.
-
-## UI/UX Link:  
-[EventHive - An Event Management System (Community) on Figma](https://www.figma.com/design/5SSzOuDvwMGxnymhV5eoct/EventHive---An-Event-Management-System-(Community)?node-id=557-776&t=K9x0h0uCdZ2FS0dW-1)
