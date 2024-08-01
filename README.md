@@ -81,3 +81,12 @@ A comprehensive platform designed to streamline the planning, organizing, and ma
   - Strong authentication measures ensured data and transaction security.
 
 My contributions helped create a reliable, efficient, and user-friendly platform, significantly improving the event management process for both organizers and participants.
+
+## Snapshots:
+
+![image](https://github.com/user-attachments/assets/5c751d70-9296-4b50-be3f-467fa8fa59da)
+![image](https://github.com/user-attachments/assets/61aef312-cbf8-405e-83db-92bf3e616349)
+![image](https://github.com/user-attachments/assets/e3b8ea1c-6366-46d0-ba8c-4aad22279302)
+
+
+
