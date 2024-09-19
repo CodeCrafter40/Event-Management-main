@@ -32,6 +32,16 @@ A comprehensive platform designed to streamline the planning, organizing, and ma
 
 ## Integrations and Tech Stack:
 
+![Java](https://img.shields.io/badge/Java-17-007396?style=for-the-badge&logo=java)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.6.6-6DB33F?style=for-the-badge&logo=springboot)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-3.0.12-005F0F?style=for-the-badge&logo=thymeleaf)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5.2.3-563D7C?style=for-the-badge&logo=bootstrap)
+![CSS](https://img.shields.io/badge/CSS-3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript)
+![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql)
+![Maven](https://img.shields.io/badge/Maven-3.8.6-C71A36?style=for-the-badge&logo=apachemaven)
+
+
 ### Technologies Used:
 - **Frontend:**  
   - React and CSS for dynamic UI and styling.
